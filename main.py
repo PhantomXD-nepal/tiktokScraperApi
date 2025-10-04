@@ -5,11 +5,11 @@ from playwright.async_api import async_playwright
 from helper import parse_count
 
 # ---------------------- Config ----------------------
-KEYWORD = "funny cats"
-MAX_PAGES = 10
-VIRAL_LIKES_THRESHOLD = 10_000
-OUTPUT_CSV = "tiktok_viral_urls.csv"
-DELAY_BETWEEN_SCROLLS = 2.0  # seconds
+KEYWORD = "quantam physics ai "
+MAX_PAGES = 1
+VIRAL_LIKES_THRESHOLD = 1000
+OUTPUT_CSV = "spirituality.csv"
+DELAY_BETWEEN_SCROLLS = 1.0  # seconds
 
 
 async def scrape():

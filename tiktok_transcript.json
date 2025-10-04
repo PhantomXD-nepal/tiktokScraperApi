@@ -1,0 +1,687 @@
+{
+  "data": [
+    {
+      "data": {
+        "id": "7253032811098066203",
+        "desc": "THIS IS A SCAM Scammers are using an AI–generated 'deepfake' video of @martinlewismse to convince victims to part with their money. Martin has warned lives could be ruined unless this is stopped. #martinlewis #martinlewismoneysavingexpert #scam #scammers #scammeralert #gmb #goodmorningbritain #AI #deepfake",
+        "createTime": "1688728315",
+        "scheduleTime": 0,
+        "video": {
+          "id": "7253032811098066203",
+          "height": 1024,
+          "width": 576,
+          "duration": 63,
+          "ratio": "540p",
+          "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/9cf3a697f659441ba7fe197c8b792af8_1688728317~tplv-tiktokx-origin.image?dr=9636&x-expires=1759730400&x-signature=7%2BgOTZt6jTte%2Fu9YNXUowxlR2Sc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "originCover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/f056886408904497a625993dc32a2a18_1688728317~tplv-tiktokx-origin.image?dr=9636&x-expires=1759730400&x-signature=Wnvhs7lJsi7uIorC2gUREZAd4Rg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "dynamicCover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/eb6a09d54b464ae5b68791dd84635c5a_1688728324~tplv-tiktokx-origin.image?dr=9636&x-expires=1759730400&x-signature=p5EZLC7L4IZqlfBBCdG9ticy%2BDU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oc8Cth3zQXEB4lkfNokVDQAMIkntwpEZfFhCGP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1192&bt=596&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=0&rc=NGQ8NTZkZmVmOmk2OmU4PEBpanE1ZWY6ZjV5bDMzZjgzM0A0YV5gNDZjXzMxMl81NC8vYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=b2b5b709b61e411b457e303734b4cf74&tk=tt_chain_token",
+          "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/owHyETWJgNA2FRWHASeAvcli8E5Uf3nPeeTUxk/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1210&bt=605&cs=0&ds=3&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=0&rc=NGllOWQ4Zjk0Zzw6PDQ4OUBpanE1ZWY6ZjV5bDMzZjgzM0AyXjA2XmNiX2AxXi1iYDFgYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=daebd0e9e5f5ac551ae864e48c2aee78&tk=tt_chain_token",
+          "shareCover": [
+            ""
+          ],
+          "reflowCover": "",
+          "bitrate": 611129,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "540p",
+          "subtitleInfos": [
+            {
+              "UrlExpire": "1759731171",
+              "Size": "1858",
+              "LanguageID": "2",
+              "LanguageCodeName": "eng-US",
+              "Url": "https://v16m-webapp.tiktokcdn-us.com/c563ca5835da5f2c82748d91c03b2a3f/68e35de3/video/tos/useast2a/tos-useast2a-v-0037-euttp/a3a3108e033d4628bbec25cdbdaec9e6/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=31178&bt=15589&cs=0&ds=4&ft=4KLMeMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=13&rc=anE1ZWY6ZjV5bDMzZjgzM0BpanE1ZWY6ZjV5bDMzZjgzM0BvNWNmcjRnMmdgLS1kL2NzYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&l=202510040611481DAE0D5068D80E300D71&btag=e00050000",
+              "Format": "webvtt",
+              "Version": "1",
+              "Source": "ASR"
+            }
+          ],
+          "zoomCover": {
+            "240": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/9cf3a697f659441ba7fe197c8b792af8_1688728317~tplv-photomode-zoomcover:240:240.jpeg?dr=9616&x-expires=1759730400&x-signature=cOqLdvTqsFj2sokAMWCM46CotIU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+            "480": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/9cf3a697f659441ba7fe197c8b792af8_1688728317~tplv-photomode-zoomcover:480:480.jpeg?dr=9616&x-expires=1759730400&x-signature=kCgSOh3UsqFzOU6KIObCb6buAV8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+            "720": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/9cf3a697f659441ba7fe197c8b792af8_1688728317~tplv-photomode-zoomcover:720:720.jpeg?dr=9616&x-expires=1759730400&x-signature=B90TdTYy%2BzXzBKvBysNTcXQ7RE0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+            "960": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/9cf3a697f659441ba7fe197c8b792af8_1688728317~tplv-photomode-zoomcover:960:960.jpeg?dr=9616&x-expires=1759730400&x-signature=l%2FeY3PAr5AC8noN6AdPxqrMdryk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1"
+          },
+          "volumeInfo": {
+            "Loudness": -21.2,
+            "Peak": 0.70795
+          },
+          "bitrateInfo": [
+            {
+              "Bitrate": 611129,
+              "QualityType": 20,
+              "BitrateFPS": 25,
+              "GearName": "normal_540_0",
+              "PlayAddr": {
+                "DataSize": "4849998",
+                "Width": 576,
+                "Height": 1024,
+                "Uri": "v0f025gc0000cijv52jc77ucibf28nrg",
+                "UrlList": [
+                  "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oc8Cth3zQXEB4lkfNokVDQAMIkntwpEZfFhCGP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1192&bt=596&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=0&rc=NGQ8NTZkZmVmOmk2OmU4PEBpanE1ZWY6ZjV5bDMzZjgzM0A0YV5gNDZjXzMxMl81NC8vYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=b2b5b709b61e411b457e303734b4cf74&tk=tt_chain_token",
+                  "https://v19-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oc8Cth3zQXEB4lkfNokVDQAMIkntwpEZfFhCGP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1192&bt=596&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=0&rc=NGQ8NTZkZmVmOmk2OmU4PEBpanE1ZWY6ZjV5bDMzZjgzM0A0YV5gNDZjXzMxMl81NC8vYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=b2b5b709b61e411b457e303734b4cf74&tk=tt_chain_token",
+                  "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=29257b87b35f476cbbfc9a73c2a9da71&is_play_url=1&item_id=7253032811098066203&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA1ODNhMGRhYTk5NDNkNjlhMzIyMDBkYzMwZGUwMzZl&tk=tt_chain_token&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+                ],
+                "UrlKey": "v0f025gc0000cijv52jc77ucibf28nrg_h264_540p_611129",
+                "FileHash": "6366008905c88e30b192cfbd1ada0bea",
+                "FileCs": "c:0-42080-f7de"
+              },
+              "CodecType": "h264",
+              "MVMAF": "\"\"",
+              "Format": "mp4",
+              "VideoExtra": "{\"PktOffsetMap\":\"\",\"mvmaf\":\"\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"5ec63939750549e79a31eb386fafda76\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32099}"
+            },
+            {
+              "Bitrate": 546973,
+              "QualityType": 2,
+              "BitrateFPS": 25,
+              "GearName": "adapt_lowest_1080_1",
+              "PlayAddr": {
+                "DataSize": "4340848",
+                "Width": 1080,
+                "Height": 1920,
+                "Uri": "v0f025gc0000cijv52jc77ucibf28nrg",
+                "UrlList": [
+                  "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oUQRnJIE9EfIlgrbZxIAeeDGK9n8vTgGJbuKBe/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1068&bt=534&cs=2&ds=4&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=15&rc=aDg0NmVnN2hkaGdkPDw4NUBpanE1ZWY6ZjV5bDMzZjgzM0A0LTUxNDYwNTIxNmBgYzJgYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=e32e5c6220ff8c36709b599cd9d1d0cb&tk=tt_chain_token",
+                  "https://v19-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oUQRnJIE9EfIlgrbZxIAeeDGK9n8vTgGJbuKBe/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1068&bt=534&cs=2&ds=4&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=15&rc=aDg0NmVnN2hkaGdkPDw4NUBpanE1ZWY6ZjV5bDMzZjgzM0A0LTUxNDYwNTIxNmBgYzJgYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=e32e5c6220ff8c36709b599cd9d1d0cb&tk=tt_chain_token",
+                  "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=c255f9c9ca9d4e5a8e349d7b4381057e&is_play_url=1&item_id=7253032811098066203&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA4YWMwNmFjNTNhYTJhMzJkYjdjMTI3NGQ0MTI2ZjZi&tk=tt_chain_token&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+                ],
+                "UrlKey": "v0f025gc0000cijv52jc77ucibf28nrg_bytevc1_1080p_546973",
+                "FileHash": "735f05692da9b7cd123537df1321bba3",
+                "FileCs": "c:0-42394-fb4e"
+              },
+              "CodecType": "h265_hvc1",
+              "MVMAF": "\"\"",
+              "Format": "mp4",
+              "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 126380}, {\\\"time\\\": 2, \\\"offset\\\": 172582}, {\\\"time\\\": 3, \\\"offset\\\": 227124}, {\\\"time\\\": 4, \\\"offset\\\": 307439}, {\\\"time\\\": 5, \\\"offset\\\": 386268}, {\\\"time\\\": 10, \\\"offset\\\": 678536}]\",\"mvmaf\":\"\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"83b8136705cc8dcca0a8ebb99232084c\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":64182}"
+            },
+            {
+              "Bitrate": 453716,
+              "QualityType": 14,
+              "BitrateFPS": 25,
+              "GearName": "adapt_lower_720_1",
+              "PlayAddr": {
+                "DataSize": "3600750",
+                "Width": 720,
+                "Height": 1280,
+                "Uri": "v0f025gc0000cijv52jc77ucibf28nrg",
+                "UrlList": [
+                  "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oIHC3h3zQXDB4lkfNbkVDQAMIk1tCpE2fFjznP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=886&bt=443&cs=2&ds=3&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=14&rc=N2k2NGloNWU5NmU1aTY2NUBpanE1ZWY6ZjV5bDMzZjgzM0AyLTFeNmAtNjAxNS4zMGI2YSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=46af8cb0e53fd4a02c934ed4cdd4cfc5&tk=tt_chain_token",
+                  "https://v19-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/oIHC3h3zQXDB4lkfNbkVDQAMIk1tCpE2fFjznP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=886&bt=443&cs=2&ds=3&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=14&rc=N2k2NGloNWU5NmU1aTY2NUBpanE1ZWY6ZjV5bDMzZjgzM0AyLTFeNmAtNjAxNS4zMGI2YSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=46af8cb0e53fd4a02c934ed4cdd4cfc5&tk=tt_chain_token",
+                  "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=92e3336f128b43369b02ce9fa1430f54&is_play_url=1&item_id=7253032811098066203&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNkMDhmMmFlYjQ0ZTIzMjc3YmM1Zjk2OTZkM2M4NWRj&tk=tt_chain_token&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+                ],
+                "UrlKey": "v0f025gc0000cijv52jc77ucibf28nrg_bytevc1_720p_453716",
+                "FileHash": "3e06c22321ed150a7938265a9a500ef7",
+                "FileCs": "c:0-42396-bf9a"
+              },
+              "CodecType": "h265_hvc1",
+              "MVMAF": "\"\"",
+              "Format": "mp4",
+              "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 108872}, {\\\"time\\\": 2, \\\"offset\\\": 140323}, {\\\"time\\\": 3, \\\"offset\\\": 203690}, {\\\"time\\\": 4, \\\"offset\\\": 238728}, {\\\"time\\\": 5, \\\"offset\\\": 305311}, {\\\"time\\\": 10, \\\"offset\\\": 583174}]\",\"mvmaf\":\"\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"22eebe935d739141bc75f57beca62d29\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":64182}"
+            },
+            {
+              "Bitrate": 338328,
+              "QualityType": 28,
+              "BitrateFPS": 25,
+              "GearName": "adapt_540_1",
+              "PlayAddr": {
+                "DataSize": "2685014",
+                "Width": 576,
+                "Height": 1024,
+                "Uri": "v0f025gc0000cijv52jc77ucibf28nrg",
+                "UrlList": [
+                  "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oYX1Vf3LkIPCCjDMHBpfr7lhE4zQkUAkFQNbAt/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=660&bt=330&cs=2&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=11&rc=aDs7ZWY0NTo4NDQzODw1O0BpanE1ZWY6ZjV5bDMzZjgzM0BhNTMxXi8uXjExMTFfNmBjYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=acbb394198ca94232aca34cf50520dd0&tk=tt_chain_token",
+                  "https://v19-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oYX1Vf3LkIPCCjDMHBpfr7lhE4zQkUAkFQNbAt/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=660&bt=330&cs=2&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=11&rc=aDs7ZWY0NTo4NDQzODw1O0BpanE1ZWY6ZjV5bDMzZjgzM0BhNTMxXi8uXjExMTFfNmBjYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=acbb394198ca94232aca34cf50520dd0&tk=tt_chain_token",
+                  "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=f8c299b540414145a71221ac4b6888de&is_play_url=1&item_id=7253032811098066203&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmM1NGVjZjY1MjgwMzA4MTFkODFmMWFmMmIxMzFmZjJh&tk=tt_chain_token&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+                ],
+                "UrlKey": "v0f025gc0000cijv52jc77ucibf28nrg_bytevc1_540p_338328",
+                "FileHash": "c31ec82d14f45db7fb0b0ed5ee3894af",
+                "FileCs": "c:0-42404-6f5c"
+              },
+              "CodecType": "h265_hvc1",
+              "MVMAF": "\"\"",
+              "Format": "mp4",
+              "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 99015}, {\\\"time\\\": 2, \\\"offset\\\": 121458}, {\\\"time\\\": 3, \\\"offset\\\": 174777}, {\\\"time\\\": 4, \\\"offset\\\": 200168}, {\\\"time\\\": 5, \\\"offset\\\": 252539}, {\\\"time\\\": 10, \\\"offset\\\": 431106}]\",\"mvmaf\":\"\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"7a6e79316d1545e6c5d0510411dbcf4c\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32099}"
+            },
+            {
+              "Bitrate": 326276,
+              "QualityType": 24,
+              "BitrateFPS": 25,
+              "GearName": "lower_540_0",
+              "PlayAddr": {
+                "DataSize": "2589373",
+                "Width": 576,
+                "Height": 1024,
+                "Uri": "v0f025gc0000cijv52jc77ucibf28nrg",
+                "UrlList": [
+                  "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/ognb8DZgKI5TKe3Eve5bFxegpIEuErgJPJQfAG/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=636&bt=318&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=4&rc=MzY7OGlkNGVmZDw4MzlkaUBpanE1ZWY6ZjV5bDMzZjgzM0A2LWMxM2BeXjMxLjJjNTQ2YSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=69281c192c3548db0cea633b452e190c&tk=tt_chain_token",
+                  "https://v19-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/ognb8DZgKI5TKe3Eve5bFxegpIEuErgJPJQfAG/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=636&bt=318&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=4&rc=MzY7OGlkNGVmZDw4MzlkaUBpanE1ZWY6ZjV5bDMzZjgzM0A2LWMxM2BeXjMxLjJjNTQ2YSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=69281c192c3548db0cea633b452e190c&tk=tt_chain_token",
+                  "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9f7a86f055194a6caba1ca6f45f80390&is_play_url=1&item_id=7253032811098066203&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA0MzBkMTRiZWZjZDc4YzA1ZTMwOTUyMGZkMDVjODFh&tk=tt_chain_token&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+                ],
+                "UrlKey": "v0f025gc0000cijv52jc77ucibf28nrg_h264_540p_326276",
+                "FileHash": "9fc486d3251dfe4fd9a5e0789c7d415b",
+                "FileCs": "c:0-42080-7cd6"
+              },
+              "CodecType": "h264",
+              "MVMAF": "\"\"",
+              "Format": "mp4",
+              "VideoExtra": "{\"PktOffsetMap\":\"\",\"mvmaf\":\"\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"5ec63939750549e79a31eb386fafda76\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32099}"
+            }
+          ],
+          "size": "4849998",
+          "VQScore": "59.68",
+          "claInfo": {
+            "hasOriginalAudio": false,
+            "enableAutoCaption": true,
+            "originalLanguageInfo": {
+              "language": "eng-US",
+              "languageID": "2",
+              "languageCode": "en",
+              "canTranslateRealTimeNoCheck": true
+            },
+            "captionInfos": [
+              {
+                "language": "eng-US",
+                "languageID": "2",
+                "url": "https://v16m-webapp.tiktokcdn-us.com/c563ca5835da5f2c82748d91c03b2a3f/68e35de3/video/tos/useast2a/tos-useast2a-v-0037-euttp/a3a3108e033d4628bbec25cdbdaec9e6/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=31178&bt=15589&cs=0&ds=4&ft=4KLMeMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=13&rc=anE1ZWY6ZjV5bDMzZjgzM0BpanE1ZWY6ZjV5bDMzZjgzM0BvNWNmcjRnMmdgLS1kL2NzYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&l=202510040611481DAE0D5068D80E300D71&btag=e00050000",
+                "expire": "1759731171",
+                "captionFormat": "webvtt",
+                "isAutoGen": true,
+                "subID": "-1417719587",
+                "claSubtitleID": "7253037654319991578",
+                "languageCode": "en",
+                "isOriginalCaption": true,
+                "urlList": [
+                  "https://v16m-webapp.tiktokcdn-us.com/c563ca5835da5f2c82748d91c03b2a3f/68e35de3/video/tos/useast2a/tos-useast2a-v-0037-euttp/a3a3108e033d4628bbec25cdbdaec9e6/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=31178&bt=15589&cs=0&ds=4&ft=4KLMeMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=13&rc=anE1ZWY6ZjV5bDMzZjgzM0BpanE1ZWY6ZjV5bDMzZjgzM0BvNWNmcjRnMmdgLS1kL2NzYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&l=202510040611481DAE0D5068D80E300D71&btag=e00050000",
+                  "https://v16m-webapp.tiktokcdn-us.com/c563ca5835da5f2c82748d91c03b2a3f/68e35de3/video/tos/useast2a/tos-useast2a-v-0037-euttp/a3a3108e033d4628bbec25cdbdaec9e6/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=31178&bt=15589&cs=0&ds=4&ft=4KLMeMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=13&rc=anE1ZWY6ZjV5bDMzZjgzM0BpanE1ZWY6ZjV5bDMzZjgzM0BvNWNmcjRnMmdgLS1kL2NzYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&l=202510040611481DAE0D5068D80E300D71&btag=e00050000",
+                  "https://www.tiktok.com/aweme/v1/play/?faid=1988&format=webvtt&is_play_url=1&language=eng-US&line=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjZkMWIzMDljMDFkZjVhMjNlNzNiM2E3MWJmOGJjMDcw&source=SmartPlayerSubtitleRedirect&version=1&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+                ],
+                "variant": "default",
+                "subtitleType": "1",
+                "translationType": "0"
+              }
+            ],
+            "captionsType": "1",
+            "noCaptionReason": null
+          },
+          "videoID": "v0f025gc0000cijv52jc77ucibf28nrg",
+          "PlayAddrStruct": {
+            "DataSize": "4849998",
+            "Width": 576,
+            "Height": 1024,
+            "Uri": "v0f025gc0000cijv52jc77ucibf28nrg",
+            "UrlList": [
+              "https://v16-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oc8Cth3zQXEB4lkfNokVDQAMIkntwpEZfFhCGP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1192&bt=596&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=0&rc=NGQ8NTZkZmVmOmk2OmU4PEBpanE1ZWY6ZjV5bDMzZjgzM0A0YV5gNDZjXzMxMl81NC8vYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=b2b5b709b61e411b457e303734b4cf74&tk=tt_chain_token",
+              "https://v19-webapp-prime.us.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c001-euttp/oc8Cth3zQXEB4lkfNokVDQAMIkntwpEZfFhCGP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1192&bt=596&cs=0&ds=6&ft=4KJMyMzm8Zmo0S_slI4jVF3udpWrKsd.&mime_type=video_mp4&qs=0&rc=NGQ8NTZkZmVmOmk2OmU4PEBpanE1ZWY6ZjV5bDMzZjgzM0A0YV5gNDZjXzMxMl81NC8vYSNvNWNmcjRnMmdgLS1kL2Nzcw%3D%3D&btag=e00090000&expire=1759731171&l=202510040611481DAE0D5068D80E300D71&ply_type=2&policy=2&signature=b2b5b709b61e411b457e303734b4cf74&tk=tt_chain_token",
+              "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=29257b87b35f476cbbfc9a73c2a9da71&is_play_url=1&item_id=7253032811098066203&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA1ODNhMGRhYTk5NDNkNjlhMzIyMDBkYzMwZGUwMzZl&tk=tt_chain_token&video_id=v0f025gc0000cijv52jc77ucibf28nrg"
+            ],
+            "UrlKey": "v0f025gc0000cijv52jc77ucibf28nrg_h264_540p_611129",
+            "FileHash": "6366008905c88e30b192cfbd1ada0bea",
+            "FileCs": "c:0-42080-f7de"
+          }
+        },
+        "author": {
+          "id": "7214060222070359045",
+          "shortId": "",
+          "uniqueId": "goodmorningbritain",
+          "nickname": "GoodMorningBritain",
+          "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/f9a49e296006698ce629029ed1d71941~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8705a70b&x-expires=1759730400&x-signature=fvli93W4ll68tIux35uMjzgqCG8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/f9a49e296006698ce629029ed1d71941~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=062ad1f0&x-expires=1759730400&x-signature=MnK%2FmbAB79ll2gOF5ibXE6xwaXE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/f9a49e296006698ce629029ed1d71941~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=3f3a517c&x-expires=1759730400&x-signature=XYGPfZy3Zh7I47XiEkCw4Tvg7m4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "signature": "GMB official account | T&Cs: itv.com/terms",
+          "createTime": 1679654320,
+          "verified": true,
+          "secUid": "MS4wLjABAAAANms7ypcIMDXHFKqdtecStz1GCTcBw9wih7x6yl51MVb4YQ8bjbSeYT48yeb0ik4_",
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "secret": false,
+          "isADVirtual": false,
+          "roomId": "",
+          "uniqueIdModifyTime": 0,
+          "ttSeller": false,
+          "downloadSetting": 0,
+          "recommendReason": "",
+          "nowInvitationCardUrl": "",
+          "nickNameModifyTime": 0,
+          "isEmbedBanned": false,
+          "canExpPlaylist": false,
+          "suggestAccountBind": false,
+          "UserStoryStatus": 0
+        },
+        "music": {
+          "id": "7253032835689319195",
+          "title": "original sound - GoodMorningBritain",
+          "playUrl": "https://v19.tiktokcdn-us.com/6539ab6d5b92470efffcae4572760dad/68e10f43/video/tos/useast2a/tos-useast2a-v-2370-euttp/oYInMPGGT8eTEGnJLeuHbJ6x5LIo9DhgeSfwEB/?a=1233&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GSDrKInz7ThUiNRKXq8Zmo&mime_type=audio_mpeg&qs=6&rc=NWY4Z2dlOWdmNTc7PDY5aEBpajxzeDc6Znl5bDMzZjU8M0BeXjFhMzNhNi8xLTI1YzBeYSNwMTQvcjRfMmdgLS1kMWNzcw%3D%3D&vvpl=1&l=202510040611481DAE0D5068D80E300D71&btag=e00090000",
+          "coverLarge": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/f9a49e296006698ce629029ed1d71941~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8705a70b&x-expires=1759730400&x-signature=fvli93W4ll68tIux35uMjzgqCG8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/f9a49e296006698ce629029ed1d71941~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=062ad1f0&x-expires=1759730400&x-signature=MnK%2FmbAB79ll2gOF5ibXE6xwaXE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/f9a49e296006698ce629029ed1d71941~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=3f3a517c&x-expires=1759730400&x-signature=XYGPfZy3Zh7I47XiEkCw4Tvg7m4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "authorName": "GoodMorningBritain",
+          "original": true,
+          "private": false,
+          "duration": 63,
+          "scheduleSearchTime": 0,
+          "collected": false,
+          "preciseDuration": {
+            "preciseDuration": 63.556,
+            "preciseShootDuration": 63.556,
+            "preciseAuditionDuration": 63.556,
+            "preciseVideoDuration": 63.556
+          },
+          "isCopyrighted": false,
+          "tt2dsp": {
+            "tt_to_dsp_song_infos": []
+          }
+        },
+        "challenges": [
+          {
+            "id": "10028155",
+            "title": "martinlewis",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "1681552670803970",
+            "title": "martinlewismoneysavingexpert",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "734928",
+            "title": "scam",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "294952",
+            "title": "scammers",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "5950802",
+            "title": "scammeralert",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "114201",
+            "title": "gmb",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "18695425",
+            "title": "goodmorningbritain",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "183145",
+            "title": "ai",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          },
+          {
+            "id": "1617354613722118",
+            "title": "deepfake",
+            "desc": "",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": ""
+          }
+        ],
+        "stats": {
+          "diggCount": 1313,
+          "shareCount": 369,
+          "commentCount": 510,
+          "playCount": 236100,
+          "collectCount": "198"
+        },
+        "statsV2": {
+          "diggCount": "1313",
+          "shareCount": "369",
+          "commentCount": "510",
+          "playCount": "236100",
+          "collectCount": "198",
+          "repostCount": "0"
+        },
+        "warnInfo": [],
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 70,
+            "end": 85,
+            "hashtagName": "",
+            "type": 0,
+            "subType": 0,
+            "userId": "6923603069961274373",
+            "isCommerce": false,
+            "userUniqueId": "martinlewismse",
+            "secUid": "MS4wLjABAAAA5nztIkBb4VzvU_L46_HQJUvA8j2n1iMkBsEInvSUgZhWymSgT1E_ZMugKiQHAf-6"
+          },
+          {
+            "awemeId": "",
+            "start": 196,
+            "end": 208,
+            "hashtagId": "10028155",
+            "hashtagName": "martinlewis",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 209,
+            "end": 238,
+            "hashtagId": "1681552670803970",
+            "hashtagName": "martinlewismoneysavingexpert",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 239,
+            "end": 244,
+            "hashtagId": "734928",
+            "hashtagName": "scam",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 245,
+            "end": 254,
+            "hashtagId": "294952",
+            "hashtagName": "scammers",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 255,
+            "end": 268,
+            "hashtagId": "5950802",
+            "hashtagName": "scammeralert",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 269,
+            "end": 273,
+            "hashtagId": "114201",
+            "hashtagName": "gmb",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 274,
+            "end": 293,
+            "hashtagId": "18695425",
+            "hashtagName": "goodmorningbritain",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 294,
+            "end": 297,
+            "hashtagId": "183145",
+            "hashtagName": "ai",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          },
+          {
+            "awemeId": "",
+            "start": 298,
+            "end": 307,
+            "hashtagId": "1617354613722118",
+            "hashtagName": "deepfake",
+            "type": 1,
+            "subType": 0,
+            "isCommerce": false
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "takeDown": 0,
+        "effectStickers": [],
+        "authorStats": {
+          "followerCount": 504500,
+          "followingCount": 10,
+          "heart": 33500000,
+          "heartCount": 33500000,
+          "videoCount": 1309,
+          "diggCount": 4,
+          "friendCount": 0
+        },
+        "privateItem": false,
+        "stickersOnItem": [],
+        "isAd": false,
+        "shareEnabled": true,
+        "comments": [],
+        "duetDisplay": 0,
+        "stitchDisplay": 0,
+        "indexEnabled": true,
+        "locationCreated": "GB",
+        "suggestedWords": [],
+        "contents": [
+          {
+            "desc": "THIS IS A SCAM",
+            "textExtra": []
+          },
+          {
+            "desc": "",
+            "textExtra": []
+          },
+          {
+            "desc": "Scammers are using an AI–generated 'deepfake' video of @martinlewismse to convince victims to part with their money. Martin has warned lives could be ruined unless this is stopped.",
+            "textExtra": [
+              {
+                "awemeId": "",
+                "start": 55,
+                "end": 70,
+                "hashtagName": "",
+                "type": 0,
+                "subType": 0,
+                "userId": "6923603069961274373",
+                "isCommerce": false,
+                "userUniqueId": "martinlewismse",
+                "secUid": "MS4wLjABAAAA5nztIkBb4VzvU_L46_HQJUvA8j2n1iMkBsEInvSUgZhWymSgT1E_ZMugKiQHAf-6"
+              }
+            ]
+          },
+          {
+            "desc": "",
+            "textExtra": []
+          },
+          {
+            "desc": "#martinlewis #martinlewismoneysavingexpert #scam #scammers #scammeralert #gmb #goodmorningbritain #AI #deepfake",
+            "textExtra": [
+              {
+                "awemeId": "",
+                "start": 0,
+                "end": 12,
+                "hashtagId": "10028155",
+                "hashtagName": "martinlewis",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 13,
+                "end": 42,
+                "hashtagId": "1681552670803970",
+                "hashtagName": "martinlewismoneysavingexpert",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 43,
+                "end": 48,
+                "hashtagId": "734928",
+                "hashtagName": "scam",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 49,
+                "end": 58,
+                "hashtagId": "294952",
+                "hashtagName": "scammers",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 59,
+                "end": 72,
+                "hashtagId": "5950802",
+                "hashtagName": "scammeralert",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 73,
+                "end": 77,
+                "hashtagId": "114201",
+                "hashtagName": "gmb",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 78,
+                "end": 97,
+                "hashtagId": "18695425",
+                "hashtagName": "goodmorningbritain",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 98,
+                "end": 101,
+                "hashtagId": "183145",
+                "hashtagName": "ai",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              },
+              {
+                "awemeId": "",
+                "start": 102,
+                "end": 111,
+                "hashtagId": "1617354613722118",
+                "hashtagName": "deepfake",
+                "type": 1,
+                "subType": 0,
+                "isCommerce": false
+              }
+            ]
+          }
+        ],
+        "playlistId": "7225881464713644805",
+        "collected": false,
+        "channelTags": [],
+        "item_control": {
+          "can_repost": true
+        },
+        "IsAigc": false,
+        "AIGCDescription": "",
+        "backendSourceEventTracking": "",
+        "CategoryType": 0,
+        "textLanguage": "en",
+        "textTranslatable": true,
+        "authorStatsV2": {
+          "followerCount": "504500",
+          "followingCount": "10",
+          "heart": "33500000",
+          "heartCount": "33500000",
+          "videoCount": "1309",
+          "diggCount": "4",
+          "friendCount": "0"
+        },
+        "isReviewing": false
+      },
+      "subtitles": "WEBVTT\n\n00:00:00 --> 00:00:02\nmust presented his new project\n\n00:00:02 --> 00:00:05\nin which he has already invested more than $3 billion\n\n00:00:05 --> 00:00:06\nand this as far as I know\n\n00:00:06 --> 00:00:09\nis the first deep fake scam advert that we've seen\n\n00:00:09 --> 00:00:11\nit's certainly the first with me\n\n00:00:11 --> 00:00:13\nand it's an absolutely terrifying development\n\n00:00:14 --> 00:00:18\nso we still have an absolute Wild West on social media\n\n00:00:18 --> 00:00:21\nand other big tech advertising platforms\n\n00:00:21 --> 00:00:23\nthat allows scammers to get away with impunity\n\n00:00:24 --> 00:00:26\nand what I want everybody watching to remember\n\n00:00:26 --> 00:00:29\nevery time you see one of those adverts\n\n00:00:29 --> 00:00:32\none of the big tech firms is being paid\n\n00:00:32 --> 00:00:34\nto promote that advert\n\n00:00:34 --> 00:00:37\nand these destroy vulnerable people\n\n00:00:37 --> 00:00:39\nand many non vulnerable people's lives\n\n00:00:39 --> 00:00:41\nonce you get scammed\n\n00:00:41 --> 00:00:43\nthe impact on your mental health and self esteem\n\n00:00:43 --> 00:00:45\nis huge with many people\n\n00:00:47 --> 00:00:49\nonly go to trusted sources\n\n00:00:49 --> 00:00:51\nthe safest thing is to be skeptical of\n\n00:00:51 --> 00:00:52\nany online advert\n\n00:00:53 --> 00:00:54\nany odd advert online\n\n00:00:54 --> 00:00:56\nanything that is a paid promotion\n\n00:00:56 --> 00:00:57\nbe skeptical\n\n00:00:57 --> 00:00:58\nand if it's not paid\n\n00:00:58 --> 00:00:59\nthen make sure you know who\n\n00:01:00 --> 00:01:01\nthe person who's posting it is\n\n00:01:01 --> 00:01:04\nsomebody you trust and is their real account\n\n",
+      "oVideoURL": "https://www.tiktok.com/@goodmorningbritain/video/7253032811098066203",
+      "id": "7253032811098066203"
+    }
+  ],
+  "zipFile": "103.10.31.107-1.zip"
+}
