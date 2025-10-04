@@ -3,11 +3,13 @@ import asyncio
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from playwright.async_api import async_playwright
-from helper import parse_count, get_transcript, generateParaprashe
+from helper import parse_count, generateParaprashe, saveAudio
+from test import get_transcriptt as get_transcript
+
 
 # ---------------------- Config ----------------------
 KEYWORD = "quantam physics ai "
-MAX_PAGES = 1
+MAX_PAGES = 10
 VIRAL_LIKES_THRESHOLD = 1000
 OUTPUT_CSV = "spirituality.csv"
 DELAY_BETWEEN_SCROLLS = 1.0  # seconds
@@ -16,7 +18,7 @@ MAX_WORKERS = 5  # Number of concurrent threads for transcript/paraphrase proces
 
 def process_video(video_data):
     """
-    Process a single video: get transcript and paraphrase.
+    Process a single video: get transcript, paraphrase, and generate audio.
     This function runs in a thread.
     """
     url = video_data["url"]
@@ -31,15 +33,23 @@ def process_video(video_data):
         if transcript:
             paraphrase = generateParaprashe(transcript)
             video_data["paraphrase"] = paraphrase
+
+            # Generate audio from paraphrase
+            audio_path = saveAudio(paraphrase)
+            video_data["audio_path"] = audio_path
+
+            print(f"  ✓ {url} - Transcript, paraphrase, and audio generated")
         else:
             video_data["paraphrase"] = ""
+            video_data["audio_path"] = ""
+            print(f"  ⚠ {url} - No transcript found")
 
-        print(f"  ✓ {url} - Transcript and paraphrase obtained")
         return video_data
     except Exception as e:
         print(f"  ✗ {url} - Error: {e}")
         video_data["transcript"] = ""
         video_data["paraphrase"] = ""
+        video_data["audio_path"] = ""
         return video_data
 
 
@@ -106,10 +116,8 @@ async def scrape():
         viral = [v for v in results.values() if v["likes"] >= VIRAL_LIKES_THRESHOLD]
         print(f"Total found: {len(results)}; Viral: {len(viral)}")
 
-        # -------- Get Transcripts and Paraphrases with Threading --------
-        print(
-            f"\nFetching transcripts and generating paraphrases using {MAX_WORKERS} threads..."
-        )
+        # -------- Get Transcripts, Paraphrases, and Generate Audio with Threading --------
+        print(f"\nProcessing videos using {MAX_WORKERS} threads...")
 
         # Use ThreadPoolExecutor to process videos concurrently
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -130,13 +138,14 @@ async def scrape():
         # Save to CSV
         with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(
-                f, fieldnames=["url", "likes", "transcript", "paraphrase"]
+                f, fieldnames=["url", "likes", "transcript", "paraphrase", "audio_path"]
             )
             writer.writeheader()
             for row in sorted(processed_videos, key=lambda x: x["likes"], reverse=True):
                 writer.writerow(row)
 
         print(f"\nSaved to {OUTPUT_CSV}")
+        print(f"Total videos processed: {len(processed_videos)}")
 
 
 if __name__ == "__main__":
