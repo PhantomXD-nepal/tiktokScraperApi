@@ -49,6 +49,13 @@ async def scrape():
                     continue
 
                 # Extract view count and like near the anchor
+                parent = await a.evaluate_handle("el => el.closest('div')")
+                text = ""
+                try:
+                    text = await parent.inner_text()
+                except Exception:
+                    pass
+                print(text)
 
 
 asyncio.run(scrape())
