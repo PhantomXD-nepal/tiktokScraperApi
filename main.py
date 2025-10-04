@@ -1,26 +1,25 @@
 import csv
 import asyncio
-from playwright.async_api import async_playwright
 import re
-import time
-from urllib.parse import urlparse
+from playwright.async_api import async_playwright
 from helper import parse_count
 
-# Config
+# ---------------------- Config ----------------------
 KEYWORD = "funny cats"
-MAX_PAGES = 3
+MAX_PAGES = 10
 VIRAL_LIKES_THRESHOLD = 10_000
 OUTPUT_CSV = "tiktok_viral_urls.csv"
-DELAY_BETWEEN_SCROLLS = 2.0
+DELAY_BETWEEN_SCROLLS = 2.0  # seconds
 
 
-# print(parse_count("3.4k"))
 async def scrape():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            + "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
+            )
         )
         page = await context.new_page()
 
@@ -31,54 +30,60 @@ async def scrape():
         await page.goto(search_url)
 
         results = {}
+
+        # -------- Loop through search result pages --------
         for page_index in range(MAX_PAGES):
-            await page.wait_for_timeout(3000)  # Wait for initial content to load
+            await page.wait_for_timeout(3000)  # Wait for content to load
             anchors = await page.query_selector_all('a[href*="/video/"]')
 
             for a in anchors:
                 href = await a.get_attribute("href")
                 if not href:
                     continue
-                m = re.search(r"(https?://www\.tiktok\.com/[@\w\-.]+/video/\d+)", href)
-                if m:
-                    url = m.group(1)
-                else:
-                    # fall back use raw url
-                    url = href.split("?")[0]
+
+                # Extract canonical TikTok video URL
+                match = re.search(
+                    r"(https?://www\.tiktok\.com/[@\w\-.]+/video/\d+)", href
+                )
+                url = match.group(1) if match else href.split("?")[0]
+
                 if url in results:
                     continue
 
-                # Extract view count and like near the anchor
-                parent = await a.evaluate_handle("el => el.closest('div')")
-                text = ""
+                # Extract like count near the video link
+                likes = 0
                 try:
-                    text = await parent.inner_text()  # type: ignore
-                    text = parse_count(text)
+                    parent = await a.evaluate_handle("el => el.closest('div')")
+                    raw_text = await parent.inner_text()
+                    likes = parse_count(raw_text)
                 except Exception:
                     pass
-                views = 0
 
-                results[url] = {"url": url, "views": views, "snippet": text}
+                results[url] = {"url": url, "likes": likes}
 
+            # Scroll to load more results
             await page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
             await page.wait_for_timeout(int(DELAY_BETWEEN_SCROLLS * 1000))
 
         await browser.close()
 
+        # -------- Print Results --------
         for url, data in results.items():
-            print(f"{url} → {data['views']} views, snippet: {data['snippet']}")
+            print(f"{url} → {data['likes']} likes")
 
-        viral = [v for v in results.values() if v["snippet"] >= VIRAL_LIKES_THRESHOLD]
-        print(
-            f"Total found: {len(results)}; Viral (>=  views): {len(viral)}"  # type: ignore
-        )
+        # Filter viral content
+        viral = [v for v in results.values() if v["likes"] >= VIRAL_LIKES_THRESHOLD]
+        print(f"Total found: {len(results)}; Viral: {len(viral)}")
 
+        # Save to CSV
         with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=["url", "views", "snippet"])
-            w.writeheader()
-            for r in sorted(viral, key=lambda x: x["views"], reverse=True):
-                w.writerow(r)
+            writer = csv.DictWriter(f, fieldnames=["url", "likes"])
+            writer.writeheader()
+            for row in sorted(viral, key=lambda x: x["likes"], reverse=True):
+                writer.writerow(row)
+
         print("Saved to", OUTPUT_CSV)
 
 
-asyncio.run(scrape())
+if __name__ == "__main__":
+    asyncio.run(scrape())
