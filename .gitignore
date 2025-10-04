@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 tiktok_viral_urls.csv
+.env
+sprirituality.csv
+spirituality.csv
+voices.json

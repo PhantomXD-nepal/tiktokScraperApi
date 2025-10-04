@@ -6,5 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "playwright>=1.55.0",
+    "python-dotenv>=1.1.1",
     "requests>=2.32.5",
+    "sambanova>=1.1.3",
 ]
