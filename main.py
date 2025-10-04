@@ -9,7 +9,7 @@ from helper import parse_count
 # Config
 KEYWORD = "funny cats"
 MAX_PAGES = 3
-VIRAL_VIEWS_THRESHOLD = 100_000
+VIRAL_LIKES_THRESHOLD = 10_000
 OUTPUT_CSV = "tiktok_viral_urls.csv"
 DELAY_BETWEEN_SCROLLS = 2.0
 
@@ -52,10 +52,33 @@ async def scrape():
                 parent = await a.evaluate_handle("el => el.closest('div')")
                 text = ""
                 try:
-                    text = await parent.inner_text()
+                    text = await parent.inner_text()  # type: ignore
+                    text = parse_count(text)
                 except Exception:
                     pass
-                print(text)
+                views = 0
+
+                results[url] = {"url": url, "views": views, "snippet": text}
+
+            await page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
+            await page.wait_for_timeout(int(DELAY_BETWEEN_SCROLLS * 1000))
+
+        await browser.close()
+
+        for url, data in results.items():
+            print(f"{url} → {data['views']} views, snippet: {data['snippet']}")
+
+        viral = [v for v in results.values() if v["snippet"] >= VIRAL_LIKES_THRESHOLD]
+        print(
+            f"Total found: {len(results)}; Viral (>=  views): {len(viral)}"  # type: ignore
+        )
+
+        with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=["url", "views", "snippet"])
+            w.writeheader()
+            for r in sorted(viral, key=lambda x: x["views"], reverse=True):
+                w.writerow(r)
+        print("Saved to", OUTPUT_CSV)
 
 
 asyncio.run(scrape())
